@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicolas Pereti 👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pereti_)
+[![Youtube](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pereti-31b846359/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pereti/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peretizz)
