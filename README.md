@@ -27,7 +27,7 @@
 - 📧 **E-mail:** peretinicolas82@gmail.com
 - 📷 **Instagram:** [@_pereti](https://www.instagram.com/_pereti/)
 - 🎥 **YouTube:** [Pereti_](https://www.youtube.com/@Pereti_)
-- 🔗 **Portfólio:** [Meu Portfólio](https://www.youtube.com/@Pereti_)
+- 🔗 **Portfólio:** [Meu Portfólio](https://nicolaspereti.vercel.app/)
 
 
 
