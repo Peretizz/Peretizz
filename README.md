@@ -18,7 +18,7 @@
 
 ## 📚 Sobre mim
 
-🎓 Estudante de Técnico em Informática no IFC – Campus Videira | 💻 Apaixonado por tecnologia, desenvolvo alguns projetos, sempre buscando aprender mais e evoluir como programador.
+🎓 Técnico em Informática no IFC – Campus Videira | 💻 Apaixonado por tecnologia, desenvolvo alguns projetos, sempre buscando aprender mais e evoluir como programador.
 
 ## 📞 Contato
 
